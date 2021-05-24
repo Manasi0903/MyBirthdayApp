@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Birthday App</string>
+    <string name="button">Button</string>
+    <string name="submit" />
+    <string name="submit1">submit1</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="name">Name</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="manasi">manasi</string>
+    <string name="Manasi" />
+    <string name="Manasi1" />
+    <string name="manasilokakshi">ManasiLokakshi</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+</resources>
